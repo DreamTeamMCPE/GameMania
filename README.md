@@ -1,6 +1,6 @@
-# GameMania
-GameManiaMC:PE szerverinformáció
-Szerver szoftver: GameMania (leverly) 
+# DreamGames
+DreamGames:BE szerverinformáció
+Szerver szoftver: DreamGames 
 OS: Windows Server 2012 
 PHP: 7 x64 
 Processzor: 4 virtuális mag (Intel Core i3-8100 Quad-Core 3.6GHz LGA1151) 
